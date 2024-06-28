@@ -15,12 +15,6 @@
 #### - 💬 To querendo me tornar Fullstack e me especializar em Cyber Segurança ...
 #### - 📫 Chama nois ae lahorrytakashi@gmail.com ou daniel.marttinsx@gmail.com ...
 #### - 😄 Pronomes: ele/dele
-
-<div align="center">
-  <a href="https://github.com/Daniel-Marttins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Marttins&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Marttins&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
