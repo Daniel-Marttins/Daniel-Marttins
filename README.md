@@ -94,5 +94,6 @@
 
 ### 🔄 ETL & Automação
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pentaho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pentaho/pentaho-original.svg">
+  <img align="center" alt="n8n" height="30" width="40" src="https://api.iconify.design/devicon:n8n-wordmark.svg">
+  <span style="margin-left: 8px;">Pentaho Data Integration (ETL)</span>
 </div>
