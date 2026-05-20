@@ -1,117 +1,69 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World, I'm Daniel Martins
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Software+Architect;Backend+Specialist;Cybersecurity+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+# ⚔️ DANIEL MARTINS
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=FULL+STACK+ENGINEER;SOFTWARE+ARCHITECT;BACKEND+SPECIALIST;CYBERSECURITY+ENTHUSIAST;BUILDING+SCALABLE+SYSTEMS" />
 
 <br>
-<br>
 
-<img src="https://img.shields.io/badge/Focus-Software%20Architecture-00F7FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Spring%20Boot-111827?style=for-the-badge&logo=nestjs" />
-<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-Cybersecurity-ef4444?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ARCHITECTURE-black?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/BACKEND-NESTJS%20%7C%20SPRING%20BOOT-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-DOCKER%20%7C%20LINUX-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SECURITY-CYBERSECURITY-darkred?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 💫 About Me
+<div align="center">
+
+# FEAR THE CODE
+
+## OWN THE ARCHITECTURE
+
+</div>
 
 ```bash
-> Full Stack Developer with strong backend expertise
-> Focused on scalable architectures and maintainable systems
-> Production experience with Linux, Docker and distributed environments
-> Passionate about engineering quality, performance and clean code
-> Constantly evolving in Software Architecture and Cybersecurity
+> Full Stack Engineer with 4+ years building scalable systems
+> Backend-focused developer with architecture mindset
+> Production experience with Linux, Docker and enterprise integrations
+> Focused on performance, clean code and maintainability
+> Evolving towards cybersecurity and distributed systems
 ```
 
-I'm a **Full Stack Engineer** with over **4 years of experience** building robust, scalable and production-ready solutions.
-
-My expertise ranges from:
-
-* Backend engineering
-* Frontend applications
-* Infrastructure & DevOps
-* Database integrations
-* System architecture
-* ETL and automation pipelines
-
-I work with a strong focus on:
-
-* scalability
-* performance
-* clean architecture
-* maintainability
-* engineering best practices
-
-Currently improving my expertise in:
-
-* Distributed Systems
-* Software Architecture
-* Cybersecurity
-* Infrastructure Engineering
-
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-## 🖥️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python" />
-
-## 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,js,html,css" />
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-## ⚙️ DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,linux" />
-
-</div>
-
----
-
-# 🧠 Engineering Expertise
+# ⚡ PROFILE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 Backend Engineering
+## 🧠 ENGINEERING
 
-* Node.js & NestJS
-* Java & Spring Boot
-* REST API Development
-* TypeORM & Hibernate
-* Distributed Systems
-* Authentication & Security
-* System Integrations
-* Layered Architecture
-* Performance Optimization
-* Production-ready APIs
+* Scalable Backend Systems
+* Enterprise Integrations
+* REST APIs
+* Distributed Architectures
+* Clean Architecture
+* System Performance
+* Infrastructure Engineering
+* DevOps Workflows
+* Production Deployments
 
 </td>
 <td width="50%" valign="top">
 
-## 🌐 Frontend Engineering
+## 🔥 CURRENT FOCUS
 
-* React.js
-* Next.js
-* Electron + React
-* Tailwind CSS
-* Responsive UI Design
-* Component Architecture
-* SPA Applications
-* Modern Frontend Workflows
-* UX-focused Interfaces
+* Software Architecture
+* Cybersecurity
+* Infrastructure
+* Backend Engineering
+* Linux Ecosystems
+* DevOps Automation
+* Data Integration
+* Performance Optimization
 
 </td>
 </tr>
@@ -119,152 +71,197 @@ Currently improving my expertise in:
 
 ---
 
-# 🏗️ Architecture & Engineering Principles
+# 🖥️ BACKEND
 
 <div align="center">
 
-| Principles | Engineering Mindset    |
-| ---------- | ---------------------- |
-| SOLID      | Scalable Systems       |
-| DRY        | Maintainable Code      |
-| KISS       | Clean Architecture     |
-| YAGNI      | Engineering Efficiency |
-| GRASP      | Software Quality       |
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python" />
 
 </div>
 
+```yaml
+STACK:
+  - Node.js
+  - NestJS
+  - Java
+  - Spring Boot
+  - TypeORM
+  - Hibernate
+
+SPECIALTIES:
+  - REST APIs
+  - Scalable Architectures
+  - Enterprise Integrations
+  - Authentication & Security
+  - Layered Architecture
+  - System Performance
+```
+
 ---
 
-# 🗄️ Database & Data Engineering
+# 🌐 FRONTEND
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,js,html,css" />
+
+</div>
 
 ```yaml
-Databases:
+FOCUS:
+  - Modern Interfaces
+  - Responsive Applications
+  - SPA Architectures
+  - Component-based Systems
+  - UX-focused Development
+```
+
+---
+
+# 🗄️ DATABASES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<img src="https://img.shields.io/badge/SQL_SERVER-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+```yaml
+EXPERIENCE:
   - PostgreSQL
   - SQL Server
   - MySQL
-
-Experience:
-  - Multi-database integrations
   - Linked Servers
-  - Data synchronization
   - Procedures & Jobs
-  - Query optimization
-  - ETL pipelines
-  - Data analysis
+  - Multi-database Integration
+  - Data Synchronization
+  - Query Optimization
 ```
 
 ---
 
-# 🔄 ETL & Automation
+# ⚙️ DEVOPS & INFRASTRUCTURE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pentaho-ETL-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Data-Integration-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow-Automation-0ea5e9?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=docker,linux" />
 
 </div>
-
----
-
-# ☁️ DevOps & Infrastructure
 
 ```bash
 ✔ Dockerized Applications
-✔ Linux Server Management
+✔ Linux Environment Management
 ✔ Production Deployments
-✔ Environment Provisioning
-✔ Infrastructure Maintenance
+✔ Infrastructure Provisioning
 ✔ Hosting & Monitoring
-✔ Versioning & Delivery Pipelines
+✔ Version Control Workflows
+✔ Server Maintenance
 ```
 
 ---
 
-# 🔐 Cybersecurity Journey
-
-Currently expanding my knowledge in:
-
-* Offensive Security
-* Infrastructure Hardening
-* Secure Architectures
-* Application Security
-* Authentication & Access Control
-* Security Best Practices
-
-> Cybersecurity is becoming a strong pillar of my engineering evolution.
-
----
-
-# 📊 GitHub Analytics
+# 🔄 ETL & AUTOMATION
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/PENTAHO-ETL-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/N8N-AUTOMATION-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA-INTEGRATION-111111?style=for-the-badge" />
 
 </div>
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```typescript
-const danielMartins = {
-  currentFocus: [
-    "Software Architecture",
-    "Distributed Systems",
-    "Cybersecurity",
-    "Backend Engineering",
-    "DevOps & Infrastructure"
-  ],
-
-  currentlyLearning: [
-    "Advanced Security",
-    "Scalable System Design",
-    "Cloud Infrastructure",
-    "Performance Engineering"
-  ]
-}
+```yaml
+WORKFLOW:
+  - Data Processing
+  - ETL Pipelines
+  - System Integrations
+  - Automation Flows
+  - Data Analysis
 ```
 
 ---
 
-# 🌎 Connect With Me
+# 🏗️ ENGINEERING PRINCIPLES
+
+<div align="center">
+
+| PRINCIPLES | ENGINEERING           |
+| ---------- | --------------------- |
+| SOLID      | Scalable Systems      |
+| DRY        | Maintainable Code     |
+| KISS       | Clean Architecture    |
+| YAGNI      | Efficient Engineering |
+| GRASP      | Software Quality      |
+
+</div>
+
+---
+
+# 🔐 CYBERSECURITY
+
+```yaml
+CURRENT PATH:
+  - Offensive Security
+  - Infrastructure Hardening
+  - Secure Architectures
+  - Access Control
+  - Application Security
+  - Security Best Practices
+```
+
+> SLEEP IS FOR THE WEAK.
+> BUILD SECURE. BUILD SCALABLE.
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=8B0000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" />
+
+</div>
+
+---
+
+# 🌍 CONTACT
 
 <div align="center">
 
 <a href="https://github.com/Daniel-Marttins">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/takashillahorry">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:lahorrytakashi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -273,6 +270,8 @@ const danielMartins = {
 
 <div align="center">
 
-## 🚀 Engineering scalable systems with performance, architecture and clean code.
+# BUILT DIFFERENT.
+
+## BUILT TO WIN.
 
 </div>
