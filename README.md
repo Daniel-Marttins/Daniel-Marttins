@@ -1,105 +1,278 @@
-## 👋 Olá, eu sou Daniel Martins
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World, I'm Daniel Martins
 
-#### Desenvolvedor **Full Stack Pleno**, com mais de **4 anos de experiência** no desenvolvimento de soluções robustas, escaláveis e orientadas a boas práticas de engenharia de software. Atuo desde a concepção técnica até a entrega em produção, com forte foco em **arquitetura, performance, qualidade de código e manutenibilidade**.
-#### Possuo ampla experiência em **backend, frontend, bancos de dados e infraestrutura**, trabalhando com sistemas distribuídos, integrações complexas e ambientes produtivos em Linux. Sou orientado a resultados, com domínio de padrões de projeto, princípios de arquitetura e práticas modernas de desenvolvimento.
+<div align="center">
 
-#### Atualmente, sigo em constante evolução técnica com foco em **arquitetura de software, sistemas distribuídos e cibersegurança**.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Software+Architect;Backend+Specialist;Cybersecurity+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Software%20Architecture-00F7FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20Spring%20Boot-111827?style=for-the-badge&logo=nestjs" />
+<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Cybersecurity-ef4444?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+</div>
 
 ---
 
-### 🚀 Sobre mim
+# 💫 About Me
 
-- 💻 Desenvolvedor Full Stack com experiência sólida em **Node.js, NestJS, Java (Spring Boot)** e **React**
-- 🏗️ Forte conhecimento em **arquitetura de software** e padrões de desenvolvimento
-- 🔐 Em constante evolução para especialização em **Cibersegurança**
-- 🧠 Experiência prática com **análise, tratamento e integração de dados**
-- 🐧 Vivência com ambientes **Linux**, Docker e deploy em produção
-- 🎓 Formado em **Técnico em Desenvolvimento de Sistemas**
-- 🎓 Cursando **Engenharia de Software (2/8)**
+```bash
+> Full Stack Developer with strong backend expertise
+> Focused on scalable architectures and maintainable systems
+> Production experience with Linux, Docker and distributed environments
+> Passionate about engineering quality, performance and clean code
+> Constantly evolving in Software Architecture and Cybersecurity
+```
 
----
+I'm a **Full Stack Engineer** with over **4 years of experience** building robust, scalable and production-ready solutions.
 
-### 🧩 Principais Competências Técnicas
+My expertise ranges from:
 
-#### 🖥️ Backend
-- Node.js (NestJS, TypeORM)
-- Java (Spring Boot, Hibernate)
-- Desenvolvimento de APIs RESTful escaláveis, seguindo boas práticas de versionamento, segurança e performance
-- Arquitetura em camadas
-- Integrações entre sistemas
+* Backend engineering
+* Frontend applications
+* Infrastructure & DevOps
+* Database integrations
+* System architecture
+* ETL and automation pipelines
 
-#### 🌐 Frontend
-- React.js
-- Next.Js
-- Electron + React
-- Tailwind CSS
-- HTML5, CSS3, JavaScript
+I work with a strong focus on:
 
-#### 🗄️ Bancos de Dados
-- PostgreSQL
-- SQL Server
-- MySQL
-- Procedures, jobs, migrações
-- Integração e comunicação entre múltiplos bancos de dados heterogêneos, incluindo SQL Server (Linked Servers), PostgreSQL e MySQL
+* scalability
+* performance
+* clean architecture
+* maintainability
+* engineering best practices
 
-#### ⚙️ Arquitetura & Boas Práticas
-- SOLID
-- DRY
-- KISS
-- YAGNI
-- GRASP
+Currently improving my expertise in:
 
-#### 🔄 ETL & Dados
-- Pentaho
-- n8n
-- Análise e tratamento de dados
-
-#### ☁️ DevOps & Infraestrutura
-- Docker
-- Linux
-- Deploy e hospedagem (Hostinger)
-- Provisionamento, configuração e manutenção de ambientes produtivos em Linux, incluindo deploy, monitoramento e versionamento de aplicações
+* Distributed Systems
+* Software Architecture
+* Cybersecurity
+* Infrastructure Engineering
 
 ---
 
+# ⚡ Tech Stack
 
-### 🖥️ Backend
-<div style="display: inline_block"><br>
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
-  <img align="center" alt="TypeORM" height="30" width="40" src="https://api.iconify.design/simple-icons:typeorm.svg">
-  <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+
+## 🖥️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python" />
+
+## 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,js,html,css" />
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+## ⚙️ DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+
 </div>
 
-### 🌐 Frontend
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
+
+# 🧠 Engineering Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🚀 Backend Engineering
+
+* Node.js & NestJS
+* Java & Spring Boot
+* REST API Development
+* TypeORM & Hibernate
+* Distributed Systems
+* Authentication & Security
+* System Integrations
+* Layered Architecture
+* Performance Optimization
+* Production-ready APIs
+
+</td>
+<td width="50%" valign="top">
+
+## 🌐 Frontend Engineering
+
+* React.js
+* Next.js
+* Electron + React
+* Tailwind CSS
+* Responsive UI Design
+* Component Architecture
+* SPA Applications
+* Modern Frontend Workflows
+* UX-focused Interfaces
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏗️ Architecture & Engineering Principles
+
+<div align="center">
+
+| Principles | Engineering Mindset    |
+| ---------- | ---------------------- |
+| SOLID      | Scalable Systems       |
+| DRY        | Maintainable Code      |
+| KISS       | Clean Architecture     |
+| YAGNI      | Engineering Efficiency |
+| GRASP      | Software Quality       |
+
 </div>
 
-### 🗄️ Bancos de Dados
-<div style="display: inline_block"><br>
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+---
+
+# 🗄️ Database & Data Engineering
+
+```yaml
+Databases:
+  - PostgreSQL
+  - SQL Server
+  - MySQL
+
+Experience:
+  - Multi-database integrations
+  - Linked Servers
+  - Data synchronization
+  - Procedures & Jobs
+  - Query optimization
+  - ETL pipelines
+  - Data analysis
+```
+
+---
+
+# 🔄 ETL & Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pentaho-ETL-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Data-Integration-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-Automation-0ea5e9?style=for-the-badge" />
+
 </div>
 
-### ⚙️ DevOps / Infraestrutura
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+---
+
+# ☁️ DevOps & Infrastructure
+
+```bash
+✔ Dockerized Applications
+✔ Linux Server Management
+✔ Production Deployments
+✔ Environment Provisioning
+✔ Infrastructure Maintenance
+✔ Hosting & Monitoring
+✔ Versioning & Delivery Pipelines
+```
+
+---
+
+# 🔐 Cybersecurity Journey
+
+Currently expanding my knowledge in:
+
+* Offensive Security
+* Infrastructure Hardening
+* Secure Architectures
+* Application Security
+* Authentication & Access Control
+* Security Best Practices
+
+> Cybersecurity is becoming a strong pillar of my engineering evolution.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-### 🔄 ETL & Automação
-<div style="display: inline_block"><br>
-  <img align="center" alt="n8n" height="30" width="40" src="https://api.iconify.design/devicon:n8n-wordmark.svg">
-  <span style="margin-left: 8px;">Pentaho Data Integration (ETL)</span>
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```typescript
+const danielMartins = {
+  currentFocus: [
+    "Software Architecture",
+    "Distributed Systems",
+    "Cybersecurity",
+    "Backend Engineering",
+    "DevOps & Infrastructure"
+  ],
+
+  currentlyLearning: [
+    "Advanced Security",
+    "Scalable System Design",
+    "Cloud Infrastructure",
+    "Performance Engineering"
+  ]
+}
+```
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Daniel-Marttins">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lahorrytakashi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Engineering scalable systems with performance, architecture and clean code.
+
 </div>
